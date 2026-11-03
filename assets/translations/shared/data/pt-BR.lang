@@ -12,9 +12,9 @@ rating_bruh: "Mal"
 rating_meh: "Meh"
 rating_nice: "Decente"
 rating_good: "Bom"
-rating_great: "Ótimo"
-rating_sick: "Manda Ver!"
-rating_perfect: "Perfeito!!"
+rating_great: "Puxa"
+rating_sick: "REPUXA!"
+rating_perfect: "RECONTRAPUXA!!"
 
 // Dialogues
 dialogue_skip: "Aperte BACK para Pular"
